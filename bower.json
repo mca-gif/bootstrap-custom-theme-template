@@ -1,0 +1,6 @@
+{
+  "name": "bootstrap-custom-theme",
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
